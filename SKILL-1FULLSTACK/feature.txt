@@ -1,0 +1,8 @@
+Feature Update Branch
+
+This file represents changes added in the feature-update branch.
+
+New features added:
+1. Improved code structure
+2. Added additional documentation
+3. Enhanced user functionality

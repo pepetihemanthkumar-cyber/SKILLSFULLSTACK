@@ -1,0 +1,8 @@
+Bug Fix Branch
+
+This file represents fixes made in the bug-fix branch.
+
+Fixes:
+1. Corrected calculation error
+2. Updated print statements
+3. Improved stability

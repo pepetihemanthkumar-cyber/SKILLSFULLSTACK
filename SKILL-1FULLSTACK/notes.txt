@@ -1,0 +1,15 @@
+Git Version Control Lab Notes
+
+Commands used in this lab:
+
+git init
+git status
+git add .
+git commit -m "Initial commit"
+git branch feature-update
+git checkout feature-update
+git merge
+git push origin main
+
+Purpose:
+To understand version control and collaboration using Git.
