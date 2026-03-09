@@ -1,0 +1,62 @@
+.container {
+  width: 600px;
+  margin: 40px auto;
+  text-align: center;
+  font-family: Arial;
+}
+
+.form input {
+  padding: 8px;
+  margin: 5px;
+  width: 150px;
+}
+
+.form button {
+  padding: 8px 15px;
+  margin-left: 10px;
+  background-color: green;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.form button:hover {
+  background-color: darkgreen;
+}
+
+table {
+  width: 100%;
+  margin-top: 20px;
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid #ccc;
+}
+
+th {
+  background-color: #f4f4f4;
+  padding: 10px;
+}
+
+td {
+  padding: 8px;
+}
+
+.deleteBtn {
+  background-color: red;
+  color: white;
+  padding: 5px 10px;
+  border: none;
+  cursor: pointer;
+}
+
+.deleteBtn:hover {
+  background-color: darkred;
+}
+
+.empty {
+  margin-top: 20px;
+  font-weight: bold;
+  color: gray;
+}
